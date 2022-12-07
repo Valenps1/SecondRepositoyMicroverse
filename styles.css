@@ -1,6 +1,6 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #fe67f7;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #5656ff;
     margin-left: 70px;
     margin-right: 70px;
     margin-top: 20px;
@@ -11,4 +11,8 @@ body {
     justify-content: space-between;
     width: 100%;
   }
-  
+  #nav-bar {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+  }
