@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fe67f7;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;
+  }
+  
+  #header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
